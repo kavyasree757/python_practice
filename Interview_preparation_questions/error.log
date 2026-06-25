@@ -1,0 +1,4 @@
+INFO Boot started
+ERROR EEPROM Failed
+INFO Driver loaded
+ERROR I2C timeout
